@@ -3,9 +3,9 @@
 
 ''''
 Author: Navid Zarrabi
-Date: 06/03/2022
+Date: 06/13/2022
 Topic: ROS workshop
-Name: First Acrion (Client)
+Name: First Action (Client)
 '''
 
 import rospy
